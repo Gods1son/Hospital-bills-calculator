@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\bin\Debug\Hospital charges.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\bin\Debug\Hospital charges.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\bin\Debug\Hospital charges.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital_charges.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Hospital charges\Hospital charges\obj\Debug\Hospital charges.pdb
